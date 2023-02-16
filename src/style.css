@@ -81,7 +81,7 @@ body {
   left: 160px;
 }
 
-.modal {
+.modal-inner {
   position: absolute;
   top: 0;
   left: 0;
@@ -89,7 +89,7 @@ body {
   background-color: peru;
   color: white;
   padding: 25px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   border-radius: 12px;
 }
